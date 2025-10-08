@@ -7,5 +7,5 @@ import { Component } from '@angular/core';
   styleUrl: './inicio-bundle.css'
 })
 export class InicioBundle {
-
+  
 }
